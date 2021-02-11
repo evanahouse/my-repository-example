@@ -1,1 +1,1 @@
-#my-repository-example
+This is a better description
